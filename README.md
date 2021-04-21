@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gimmethatcode or Anastasios Gialamas
 - 👀 I’m interested in learning data science trough real-case projects
-- 💞️ I’m looking to collaborate on new projects.
+- 💞️ Right now my github profile is under construction.
 - 📫 You can reach me at anastasisgial@gmail.com
 
 <!---
